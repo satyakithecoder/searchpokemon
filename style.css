@@ -59,16 +59,14 @@ img{
     flex-direction: column;
 }
 @media screen and (max-width: 600px) {
-    *{
-        font-size: medium;
-    }
     input{
         height: 28px;
         width: 120px;
     }
     button{
-        height: 28px;
+        height: 30px;
         width: 120px;
+        font-size: 15px;
     }
     .box1{
         display: flex;
